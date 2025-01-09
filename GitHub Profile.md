@@ -2,13 +2,11 @@
 
 ###
 
-<p align="left">💡My Name is **Lalit Bhanot** . Currently  in  Berlin. Originally from India.</p> </br>
-<p align="left">💡 I Know about **Spring and Backend Development**.</p> </br>
-<p align="left">💡I know about **Agile Product Development.**</p> </br>
-<p align="left">💡I’m currently learning **Microservices Architecture and React.**</p> </br>
-
-- 📫 How to reach me **lalitbhanot12@gmail.com**
-
+<p align="left">💡My Name is <b>Lalit Bhanot</b> . Currently  in  Berlin. Originally from India.</br>
+💡I know about <b>Spring and Backend Development</b>.</br>
+💡I know about <b>Agile Product Development.</b> </br>
+ 💡I am currently learning <b>Microservices Architecture and React.</b>  </br>
+ 📫 How to reach me **lalitbhanot12@gmail.com**<p></br>
 
 ###
 
