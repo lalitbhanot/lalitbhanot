@@ -1,0 +1,72 @@
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My Name is Lalit Bhanot . Currently  in  Berlin. Originally from India.</p>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" height="40" alt="cucumber logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=maven" height="40" alt="apachemaven logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
+
+<p align="left">A Little Bit About Me.<br><br> ⚡Experienced IT Professional: 8 years in Java Spring Boot development with TCS, Cognizant, and Capgemini.<br><br>⚡MBA Graduate: Earned an MBA in IT Management (1.9 GPA) from IU International University, Germany.<br><br>⚡Certified Scrum Product Owner: Skilled in agile methodologies, team collaboration, and project delivery.</p>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/lalitbhanot1211"<a>  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  
+</div>
+
+###
+
+<div align="center">
+  < img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitbhanot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalitbhanot&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lalitbhanot.lalitbhanot&"  />
+</div>
+
+###
