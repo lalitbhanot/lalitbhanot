@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">A Little Bit About Me.<br><br> ⚡Experienced IT Professional: 8 years in Java Spring Boot development with TCS, Cognizant, and Capgemini.<br><br>⚡MBA Graduate: Earned an MBA in IT Management (1.9 GPA) from IU International University, Germany.<br><br>⚡Certified Scrum Product Owner: Skilled in agile methodologies, team collaboration, and project delivery.</p>
+<p align="left">A Little Bit About Me.<br><br> ⚡Experienced IT Professional: 8 years in Java Spring Boot development with TCS, Cognizant, and Capgemini.<br><br> ⚡MBA Graduate: Earned an MBA in IT Management (1.9 GPA) from IU International University, Germany.<br><br> ⚡Certified Scrum Product Owner: Skilled in agile methodologies, team collaboration, and project delivery.</p>
 
 ###
 
@@ -52,14 +52,15 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/lalitbhanot1211"<a>  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  
+<a href="www.linkedin.com/in/lalitbhanot1211">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /> </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
 ###
 
 <div align="center">
-  < img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitbhanot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitbhanot&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lalitbhanot&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
