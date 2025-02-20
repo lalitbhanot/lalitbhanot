@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-
+<h2 align="left"></h2>
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lalitbhanot.lalitbhanot&"  />
 </div>
