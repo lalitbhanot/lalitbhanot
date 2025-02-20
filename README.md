@@ -44,10 +44,9 @@
 </div>
 
 ###
-
 <div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lalitbhanot.lalitbhanot&"  />
 </div>
-
 ###
 <!-- 
 <h2 align="left">My Stats</h2>
